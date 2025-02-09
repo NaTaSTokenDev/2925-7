@@ -156,7 +156,7 @@ function App() {
                   <ProductCard
                     title="Agar Agar Powder"
                     price={4.99}
-                    imagePlaceholder="https://ibb.co/MyLh6CXf"
+                    imagePlaceholder="https://i.ibb.co/t5TRVdW/a-photo-of-a-close-up-shot-of-a-containe-b-Ef1t-Zn-QSy-GAI8-Uu9yk-Wuw-5-STKF-KASnq-RPLn-FYKNg4-A.jpg"
                     description="Professional-grade Agar Agar Power, 1oz."
                   />
                 </div>
